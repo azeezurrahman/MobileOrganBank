@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.anand.mobileorganbank.MainActivity">
+    <item
+        android:id="@+id/heart"
+        android:title="Heart"
+        />
+    <item
+        android:id="@+id/kidney"
+        android:title="Kidney"
+        />
+    <item
+        android:id="@+id/eyes"
+        android:title="Eyes"
+        />
+</menu>

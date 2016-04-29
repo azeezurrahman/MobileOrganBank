@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobile Organ Bank</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_donor">donor</string>
+    <string name="title_activity_recipient">recipient</string>
+    <string name="title_activity_abtus">abtus</string>
+    <string name="title_activity_register">register</string>
+    <string-array name="organ">
+        <item>Eyes</item>
+        <item>Heart</item>
+        <item>Kidney</item>
+    </string-array>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_video">Video</string>
+    <string name="title_activity_listing">Available Donors</string>
+    <string name="title_activity_availability">availability</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_listing2">listing2</string>
+    <string name="title_activity_listing3">listing3</string>
+    <string name="title_activity_update">Profile</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_updation">Profile</string>
+</resources>
